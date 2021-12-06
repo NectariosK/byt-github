@@ -1,1 +1,2 @@
 Second file is simply a text file.
+Well of course the file extensions 'txt' clearly states that.
