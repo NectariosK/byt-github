@@ -1,0 +1,33 @@
+commit 9d2056e736c02941365834ae068bac23f8d55b38
+Author: Nectarios Kisiigha <nectarioskisiigha@nectarioss-macbook-air.home>
+Date:   Mon Dec 6 12:21:59 2021 +0100
+
+    initial commit
+
+ secondfile.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit febe7446b850a89e1d02269fa047b51d62f33228
+Author: Nectarios Kisiigha <nectarioskisiigha@nectarioss-macbook-air.home>
+Date:   Mon Dec 6 12:04:26 2021 +0100
+
+    initial commit
+
+ secondfile.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit bd7432f6bf1af3e05cd2003c413c7170ad862024
+Author: Nectarios Kisiigha <nectarioskisiigha@nectarioss-macbook-air.home>
+Date:   Mon Dec 6 12:00:51 2021 +0100
+
+    initial commit
+
+ .idea/.gitignore                               |  3 +++
+ .idea/bytgithubproject.iml                     | 10 +++++++++
+ .idea/inspectionProfiles/Project_Default.xml   | 28 ++++++++++++++++++++++++++
+ .idea/inspectionProfiles/profiles_settings.xml |  6 ++++++
+ .idea/misc.xml                                 |  4 ++++
+ .idea/modules.xml                              |  8 ++++++++
+ .idea/vcs.xml                                  |  6 ++++++
+ firstfile.py                                   |  9 +++++++++
+ 8 files changed, 74 insertions(+)
